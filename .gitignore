@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
+dedup.py
+.venv/
+venv/
+env/
+.env
